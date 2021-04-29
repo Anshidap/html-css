@@ -1,0 +1,31 @@
+* {box-sizing: border-box}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 100;
+    font-stretch: normal;
+}
+
+
+.container{
+    display: flex;
+     flex-flow: row wrap; 
+      width: 90%; 
+      margin: 0 auto;
+    }
+
+.row{flex:1;}
+
+.column{width: 100%;}
+
+.row {
+    color: white;
+    padding: 10px;
+    margin: 10px 0 10px 15px;
+    text-align: center;
+    background-color: coral;
+}

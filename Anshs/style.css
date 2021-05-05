@@ -89,7 +89,7 @@
   
   @media (max-width: 767px) {
     /* For mobile phones: */
-    [class*="col-l-12"] {
+    [class*="col-l,col-s"] {
       width: 100%;
     }
   }

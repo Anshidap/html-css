@@ -59,7 +59,13 @@
   }
   
   
-  .details {
+  .box1details {
+    text-align: center;
+  }
+  .box2details {
+    text-align: center;
+  }
+  .box3details {
     text-align: center;
   }
  

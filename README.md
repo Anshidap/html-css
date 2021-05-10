@@ -14,7 +14,7 @@ Assignment 5:
 https://anshidap.github.io/html-css/Assignment5/
 
 Assignment 6:
-https://anshidap.github.io/html-css/Assignment6/
+https://anshidap.github.io/html-css/Assignment6/                  
 https://anshidap.github.io/html-css/Assignment6/index2.html
 
 Assignment 7:

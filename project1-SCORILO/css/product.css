@@ -73,7 +73,8 @@
   margin-top: 1.3em;
   margin-bottom: 1.3em;
   color: rgba(37, 36, 36, 0.582);
-  line-height: 1.2em;
+  line-height: 1.5em;
+  font-family: Roboto;
 }
 
 
@@ -85,24 +86,26 @@
        margin: auto;
        
      }
-     .area1{
-         margin-top: 0;
-     }
+     
      #leftmenu{
        position: absolute;
        top: 40%;
        left: 50%;
        transform: translate(-50%,-50%);
      }
+     nav{
+      height: 100px;
+  }
      ul{
        position: absolute;
        top: 80%;
        left: 0%;
        transform: translate(0%,-50%);
      }
-     nav{
-         height: 100px;
-     }
+     
+     .area1{
+      margin-top: 0;
+    }
      .combo{
       margin-top: 1.5em;
     }

@@ -26,5 +26,11 @@ https://anshidap.github.io/html-css/Assignment.8/
 Assignment 9:
 https://anshidap.github.io/html-css/Assignment9/
 
+ Project 1:
+ https://anshidap.github.io/html-css/project1/
+ 
+ Project 2:
+ https://anshidap.github.io/html-css/project2/
+ 
 
 

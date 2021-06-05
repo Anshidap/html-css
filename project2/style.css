@@ -549,7 +549,7 @@ a:link{
 /* Meadia Queries */
 
  /* For mobile phones: */
- @media only screen and (max-width:599px){
+ @media only screen and (max-width:600px){
     [class*="col-"] {
     width: 100%;
   }
@@ -584,7 +584,7 @@ a:link{
 }
 
   
-  @media only screen and (min-width: 600px) and (max-width:768px) {
+  @media only screen and (min-width: 601px) and (max-width:768px) {
     /* For tablets: */
     .col-s-1 {width: 8.33%;}
     .col-s-2 {width: 16.66%;}
@@ -615,6 +615,12 @@ a:link{
         grid-template-columns: 50% 50%;
         grid-template-rows: auto 400px 400px;
     }
+    #clm2{
+        height: 500px;
+    }
+    #clm3,#clm3-2{
+      height: 250px;
+  }
     .vision-container>#clm{
         
         grid-column-start: 1;

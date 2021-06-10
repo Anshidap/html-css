@@ -232,11 +232,11 @@ a:link{
 }
 #clm-subtitle{
     font-family: 'Open Sans', sans-serif;
-    font-size: 52px;
+    font-size: 50px;
     font-weight: 700;
     line-height: 50px;
     margin-top: 6px;
-    color: #ff6918;
+    color: #f75d0a;
 }
 #clm-desc{
     font-weight: 700;
@@ -549,7 +549,7 @@ a:link{
 /* Meadia Queries */
 
  /* For mobile phones: */
- @media only screen and (max-width:600px){
+ @media only screen and (max-width:599px){
     [class*="col-"] {
     width: 100%;
   }
@@ -584,7 +584,7 @@ a:link{
 }
 
   
-  @media only screen and (min-width: 601px) and (max-width:768px) {
+  @media only screen and (min-width: 600px) and (max-width:768px) {
     /* For tablets: */
     .col-s-1 {width: 8.33%;}
     .col-s-2 {width: 16.66%;}
